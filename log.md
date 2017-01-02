@@ -1,16 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: January 2, 2017
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Reading rules; setting up twitter follow
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** A bit anxious about this commitment -- lots going on, and as a retiree out of the habit of dailies.  Completed "Learn Python the hard way" last year; think I'll stay with Python for now and try to actually write something in it.  Using basic setup from HardWay -- Atom editor, powershell, Python 2.8
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** None yet -- today's task is think of a project to start with tomorrow (harder than you might think!)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: January 3, 2017
+##### (Delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
