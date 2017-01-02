@@ -5,13 +5,13 @@
 
 **Today's Progress**: Reading rules; setting up twitter follow
 
-**Thoughts:** A bit anxious about this commitment -- lots going on, and as a retiree out of the habit of dailies.  Completed "Learn Python the hard way" last year; think I'll stay with Python for now and try to actually write something in it.  Using basic setup from HardWay -- Atom editor, powershell, Python 2.8
+**Thoughts: A bit anxious about this commitment -- lots going on, and as a retiree out of the habit of dailies.  Completed "Learn Python the hard way" last year; think I'll stay with Python for now and try to actually write something in it.  Using basic setup from HardWay -- Atom editor, powershell, Python 2.8
 
 Need to do the following:  
     review GitHub training
     get up test website on localhost.  Review Python setup.  Find next level Python training.
     Pick a project.
-
+##
 **Link to work:** None yet -- today's task is think of a project to start with tomorrow (harder than you might think!)
 
 ### Day 1: January 3, 2017
