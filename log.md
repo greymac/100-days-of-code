@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 0: January 2, 2017
-##### (delete me or comment me out)
 
 **Today's Progress**: Reading rules; setting up twitter follow
 
@@ -19,12 +18,16 @@ Need to do the following:
 **Link to work:** None yet -- today's task is think of a project to start with tomorrow (harder than you might think!)
 
 ### Day 1: January 3, 2017
-##### (Delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Settled on Python Projects by Alan Gauld; Laura Cassell; working thru chapter 1. 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+got local host fixed with test site.
 
+Installed Python 3 and selected next Python book.
+
+Still need project -- hopefully in Chapter 1, but if not have a few ideas.  Could restart Zork-like game code for an hour if nothing else.
+
+**Thoughts**: 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
