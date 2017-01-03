@@ -17,7 +17,7 @@ Need to do the following:
 
 **Link to work:** None yet -- today's task is think of a project to start with tomorrow (harder than you might think!)
 
-### Day 1: January 3, 2017
+### Day 1: January 3, 2017, Tuesday
 
 **Today's Progress**: Settled on Python Projects by Alan Gauld; Laura Cassell; working thru chapter 1. 
 
@@ -27,11 +27,12 @@ Installed Python 3 and selected next Python book.
 
 Still need project -- hopefully in Chapter 1, but if not have a few ideas.  Could restart Zork-like game code for an hour if nothing else.
 
-**Thoughts**: 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: A little code in Chap 1 -- bitwise operators module.  A little heavy for beginning coder (will I really need shiftleft soon?  More hopeful on chapter 2.
+
+**Link(s) to work**: 
 
 
-### Day 1: June 27, Monday
+### Day 2: January 3, 2017, Wednesday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
