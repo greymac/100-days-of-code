@@ -23,9 +23,11 @@ Need to do the following:
 
 got local host fixed with test site.
 
-Installed Python 3 and selected next Python book.
+Installed Python 3 and selected next Python book.  Verified pip for installing new packages.  
 
 Still need project -- hopefully in Chapter 1, but if not have a few ideas.  Could restart Zork-like game code for an hour if nothing else.
+
+Chapter 1 mainly review -- but at a level above where I am right now.  Lots on classes / objects, packaging larger efforts, and example was programming bitwise functions -- nice push to technical side of it all.
 
 **Thoughts**: A little code in Chap 1 -- bitwise operators module.  A little heavy for beginning coder (will I really need shiftleft soon?  More hopeful on chapter 2.
 
